@@ -1,12 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Daiwik%20Malhotra&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=140&section=header&text=%3E%20whoami:%20daiwik&fontSize=32&fontColor=00ff9d&fontAlignY=55&animation=twinkling)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=BCA+Student+%7C+Game+Developer;Building+%22Baby%22+-+an+AI+Assistant;Aspiring+AI+%26+Cybersecurity+Engineer;Always+shipping+something+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF9D&background=00000000&center=true&vCenter=true&width=650&lines=%3E+booting+daiwik.exe...;%3E+loading+game_dev+module;%3E+training+%22Baby%22+-+AI+assistant;%3E+status%3A+always+shipping)](https://git.io/typing-svg)
 
 </div>
 
-![Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 
 # 💫 About Me
 
@@ -20,7 +21,7 @@ BCA Student, 2nd Year | Game Developer | Aspiring AI & Cybersecurity Engineer
 - ⚡ **Fun fact:** I like systems where intelligent behavior, good design, and security all show up in the same place.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 </div>
 
 ## 🌐 Socials
@@ -30,31 +31,29 @@ BCA Student, 2nd Year | Game Developer | Aspiring AI & Cybersecurity Engineer
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 **Languages**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
 
 **Web**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,apache" />
 
 **Data / ML**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch" /> &nbsp;
+![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
 
 **Infra**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,gcp" />
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -90,7 +89,7 @@ BCA Student, 2nd Year | Game Developer | Aspiring AI & Cybersecurity Engineer
 
 [![](https://komarev.com/ghpvc/?username=bluesky2912&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=100&section=footer&text=%3E%20connection_closed&fontSize=18&fontColor=00ff9d&fontAlignY=65)
 
 </div>
 
