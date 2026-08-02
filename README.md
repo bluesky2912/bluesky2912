@@ -1,77 +1,90 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=140&section=header&text=%3E%20whoami:%20daiwik&fontSize=32&fontColor=00ff9d&fontAlignY=55&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:2b0605&height=150&section=header&text=DAIWIK%20MALHOTRA&fontSize=38&fontColor=FF3B24&fontAlignY=45&desc=GAME%20DEV%20%C3%97%20AI%20%C3%97%20CYBERSECURITY&descAlignY=68&descColor=8c8c8c&descSize=15&animation=fadeIn)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF9D&background=00000000&center=true&vCenter=true&width=650&lines=%3E+booting+daiwik.exe...;%3E+loading+game_dev+module;%3E+training+%22Baby%22+-+AI+assistant;%3E+status%3A+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=FF3B24&background=00000000&center=true&vCenter=true&width=650&lines=%3E+whoami;daiwik+malhotra+%2F%2F+game+dev;%3E+status+--check;building+%22Baby%22+-+AI+assistant;%3E+scan+--skills;DSA+%7C+AI%2FML+%7C+Security;%3E+compile;ready+to+ship)](https://git.io/typing-svg)
+
+![Status](https://img.shields.io/badge/STATUS-Open_to_Work-28c840?style=for-the-badge&labelColor=0a0a0a)
+![Location](https://img.shields.io/badge/LOCATION-New_Delhi,_India-00E5FF?style=for-the-badge&labelColor=0a0a0a)
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
+## ⌁ What I Do
 
-# 💫 About Me
+BCA 2nd-year student, game developer, and aspiring AI & cybersecurity engineer. Right now I'm building interactive games and **"Baby"** — a personal AI assistant for laptop automation — while going deep on DSA, ML, and security fundamentals.
 
-BCA Student, 2nd Year | Game Developer | Aspiring AI & Cybersecurity Engineer
+- 🔭 **Currently working on:** interactive games + "Baby," a personal AI assistant for laptop automation
+- 👯 **Looking to collaborate on:** game dev projects, AI-based apps, and any interesting problem worth solving
+- 🤝 **Looking for help with:** leveling up AI/ML, tightening cybersecurity fundamentals, writing more scalable code
+- 🌱 **Currently learning:** Data Structures & Algorithms, AI, Machine Learning, Cybersecurity
+- 💬 **Ask me about:** JavaScript, game development, building projects from zero
+- ⚡ **Fun fact:** I like systems where intelligent behavior, good design, and security all show up in the same place
 
-- 🔭 **Currently working on:** Building interactive games and "Baby" — a personal AI assistant for laptop automation and smarter user interaction.
-- 👯 **Looking to collaborate on:** Game dev projects, AI-based apps, and any interesting software problem worth solving.
-- 🤝 **Looking for help with:** Leveling up in AI/ML, tightening my cybersecurity fundamentals, and writing more scalable code.
-- 🌱 **Currently learning:** DSA, Artificial Intelligence, Machine Learning, and Cybersecurity.
-- 💬 **Ask me about:** JavaScript, game development, or building projects from zero.
-- ⚡ **Fun fact:** I like systems where intelligent behavior, good design, and security all show up in the same place.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🎮 Featured Work
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+| Project | Stack | Description |
+|---|---|---|
+| [**MovieTem**](https://github.com/bluesky2912/Movie_Tem) | `JS · API` | Dynamic web tool |
+| [**PulsePass**](https://github.com/bluesky2912/pulsepass) | `Node · MySQL` | Full-stack app |
+| [**SpendSense**](https://github.com/bluesky2912/spendsense) | `JS · Data` | Expense tracker |
+| [**Panic Button**](https://github.com/bluesky2912/Panic-Button) | `JS · Automation` | Safety utility |
+| [**Student Task Manager**](https://github.com/bluesky2912/Student-Task-Manager) | `Full-Stack` | Productivity app |
+| [**Brickstorm Ultra**](https://github.com/bluesky2912/brickstorm-ultra) | `JS · Game Dev` | Browser game |
+
 </div>
 
-## 🌐 Socials
+<div align="center">
 
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@daiwikmalhotra)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daiwikmalhotra@gmail.com)
+**→ [see the full interactive portfolio](https://github.com/bluesky2912) with live demos, a terminal, and a hidden arcade game ↗**
 
-## 💻 Tech Stack
+</div>
+
+## 🛠 Loadout
 
 <div align="center">
 
-**Languages**
+**Dev & Tech**
 <br>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
-
-**Web**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,apache" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,html,css" />
 
 **Data / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch" /> &nbsp;
-![NumPy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
+<img src="https://skillicons.dev/icons?i=pytorch" />&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=FF3B24)
+![Pandas](https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=FF3B24)
+![Plotly](https://img.shields.io/badge/plotly-0a0a0a?style=for-the-badge&logo=plotly&logoColor=00E5FF)
+![Matplotlib](https://img.shields.io/badge/matplotlib-0a0a0a?style=for-the-badge&logo=python&logoColor=00E5FF)
 
 **Infra**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,gcp" />
+<img src="https://skillicons.dev/icons?i=mysql,gcp,apache" />
 
 </div>
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-![](https://github-readme-stats.shion.dev/api?username=bluesky2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=bluesky2912&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=bluesky2912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 Receipts — Live from GitHub
 
-## 🏆 GitHub Trophies
+<div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=bluesky2912&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-readme-stats.shion.dev/api?username=bluesky2912&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=FF3B24&text_color=F3F1EA&icon_color=00E5FF&border_color=232323&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=bluesky2912&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a0a&title_color=FF3B24&text_color=F3F1EA&border_color=232323&border_radius=10" width="49%" />
 
-## ✍️ Random Dev Quote
+<img src="https://streak-stats.demolab.com/?user=bluesky2912&background=0a0a0a&border=232323&ring=FF3B24&fire=FF3B24&currStreakLabel=00E5FF&sideLabels=F3F1EA&currStreakNum=F3F1EA&sideNums=F3F1EA&dates=8c8c8c&border_radius=10" width="70%" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-## 🔝 Top Contributed Repo
+## 🏆 Trophies
 
-![](https://github-contributor-stats.vercel.app/api?username=bluesky2912&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bluesky2912&theme=onedark&no-frame=true&no-bg=false&margin-w=6&row=1" />
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -81,16 +94,27 @@ BCA Student, 2nd Year | Game Developer | Aspiring AI & Cybersecurity Engineer
   <img alt="snake animation" src="https://raw.githubusercontent.com/bluesky2912/bluesky2912/output/github-contribution-grid-snake.svg">
 </picture>
 
-> ⚙️ this one needs a one-time GitHub Action setup — see note below.
+> ⚙️ needs the one-time GitHub Action already set up on this repo to keep generating.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🌐 Connect
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=bluesky2912&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:0f0c29&height=100&section=footer&text=%3E%20connection_closed&fontSize=18&fontColor=00ff9d&fontAlignY=65)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=FF3B24)](https://www.linkedin.com/in/daiwik-malhotra-b231ba383/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0a0a0a?style=for-the-badge&logo=instagram&logoColor=FF3B24)](https://www.instagram.com/itsdaiwikmalhotra)
+[![Email](https://img.shields.io/badge/-Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF3B24)](mailto:daiwikmalhotra@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00E5FF)](https://github.com/bluesky2912)
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+[![](https://komarev.com/ghpvc/?username=bluesky2912&label=PROFILE+VIEWS&color=FF3B24&style=for-the-badge)](https://visitcount.itsvg.in)
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:2b0605,100:0a0a0a&height=100&section=footer&text=connection_closed&fontSize=16&fontColor=8c8c8c&animation=fadeIn)
+
+</div>
+
+<!-- Proudly recoded to match daiwikmalhotra's portfolio theme -->
